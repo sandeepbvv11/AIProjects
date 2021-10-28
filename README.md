@@ -1,2 +1,2 @@
 # AIProjects
-SOme sample Artificial Intelligent projects using tensorflow.
+Some sample Artificial Intelligent projects using tensorflow.
